@@ -40,7 +40,6 @@
   <a href="https://linkedin.com/in/bhaskara-88aa76322" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" width="40"/></a>
   <a href="https://kaggle.com/bhaskaraboss" target="_blank"><img src="https://img.icons8.com/fluency/48/kaggle.png" width="40"/></a>
   <a href="https://instagram.com/mr_bhaskara_boss" target="_blank"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40"/></a>
-  <a href="https://leetcode.com/bhaskara_bhaskara" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="40"/></a>
 </p>
 
 <!-- 💻 Languages and Tools -->
